@@ -1,0 +1,6 @@
+Percentage of 1s: 16.712%
+Percentage of 2s: 16.579%
+Percentage of 3s: 16.743%
+Percentage of 4s: 16.576%
+Percentage of 5s: 16.659%
+Percentage of 6s: 16.731%
